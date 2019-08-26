@@ -20,7 +20,7 @@ namespace GameXadrez
                     Console.Write(tab.peca(i, j)+ " ");
                     }
                 }
-                
+                Console.WriteLine();
             }
         }
     }
