@@ -1,0 +1,11 @@
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.AssemblyInfo.cs
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\bin\Debug\netcoreapp2.1\GameXadrez.deps.json
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\bin\Debug\netcoreapp2.1\GameXadrez.runtimeconfig.json
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\bin\Debug\netcoreapp2.1\GameXadrez.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\bin\Debug\netcoreapp2.1\GameXadrez.dll
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\bin\Debug\netcoreapp2.1\GameXadrez.pdb
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.dll
+C:\Users\jhona\source\repos\GameXadrez\GameXadrez\obj\Debug\netcoreapp2.1\GameXadrez.pdb
